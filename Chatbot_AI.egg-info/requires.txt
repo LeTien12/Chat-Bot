@@ -1,0 +1,12 @@
+langchain
+pypdf
+duckduckgo-search
+langchain-community
+wikipedia
+langchain-cohere
+faiss-cpu
+transformers
+requests
+beautifulsoup4
+langchain-core
+streamlit
